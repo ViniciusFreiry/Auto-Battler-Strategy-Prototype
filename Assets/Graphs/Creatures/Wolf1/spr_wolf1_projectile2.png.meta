@@ -1,0 +1,2078 @@
+fileFormatVersion: 2
+guid: 19c114bfb374bd341a31715262dfefd2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 735
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 16.5}
+        - {x: -20, y: -16.5}
+        - {x: 6, y: -16.5}
+        - {x: 20, y: -13.5}
+        - {x: 20, y: 11.5}
+        - {x: -2, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb2d1717a1232846b18737fc6fbfcb6
+      internalID: 1781270972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 735
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 16.5}
+        - {x: -20, y: -16.5}
+        - {x: 20, y: -16.5}
+        - {x: 20, y: 13.5}
+        - {x: 6, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82da29e7d9165f4a9769e4e39beaf79
+      internalID: 159789801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 735
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16.5}
+        - {x: -20, y: 16.5}
+        - {x: -20, y: 8.5}
+        - {x: -12, y: 4.5}
+        - {x: -19, y: -5.5}
+        - {x: -20, y: -8.5}
+        - {x: -20, y: -16.5}
+        - {x: -8, y: -16.5}
+        - {x: 2, y: -11.5}
+        - {x: 20, y: -12.5}
+        - {x: 20, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5199d813a41f8ae48a68caf1b7c41c36
+      internalID: 995933744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 735
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 16.5}
+        - {x: -20, y: 16.5}
+        - {x: -20, y: 10.5}
+        - {x: -16, y: 7.5}
+        - {x: -20, y: -3.5}
+        - {x: -20, y: -16.5}
+        - {x: 2, y: -16.5}
+        - {x: 20, y: -8.5}
+        - {x: 20, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97693daef4cd33488cac71731e32b2c
+      internalID: -248060892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 735
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 16.5}
+        - {x: -20, y: 7.5}
+        - {x: 1, y: 0.5}
+        - {x: 4, y: 4.5}
+        - {x: 12, y: 0.5}
+        - {x: 13, y: 0.5}
+        - {x: 11, y: 0.5}
+        - {x: -18, y: -8.5}
+        - {x: -20, y: -9.5}
+        - {x: -20, y: -16.5}
+        - {x: -2, y: -16.5}
+        - {x: 18, y: -3.5}
+        - {x: 18, y: 6.5}
+        - {x: 2, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: edda22d2b7a5b6d43bc0c978b0f124a0
+      internalID: 567804201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_5
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 735
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 16.5}
+        - {x: -20, y: 16.5}
+        - {x: -20, y: -16.5}
+        - {x: 2, y: -16.5}
+        - {x: 17, y: -4.5}
+        - {x: 17, y: 2.5}
+        - {x: 16, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2debd24b85425034d96123e0b1f0ca4f
+      internalID: -1701198224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_6
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 735
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9, y: 15.5}
+        - {x: 1, y: 16.5}
+        - {x: -20, y: 16.5}
+        - {x: -20, y: 8.5}
+        - {x: -19, y: 6.5}
+        - {x: -20, y: 3.5}
+        - {x: -20, y: -16.5}
+        - {x: 11, y: -16.5}
+        - {x: 19, y: -4.5}
+        - {x: 19, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3586d40970838246966ed278f20ef1c
+      internalID: 366255481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_7
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 735
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -1.5}
+        - {x: -20, y: -2.5}
+        - {x: -20, y: -14.5}
+        - {x: -19, y: -16.5}
+        - {x: 4, y: -16.5}
+        - {x: 8, y: -15.5}
+        - {x: 19, y: -5.5}
+        - {x: 19, y: -1.5}
+      - - {x: -20, y: 16.5}
+        - {x: -20, y: 8.5}
+        - {x: -12, y: 2.5}
+        - {x: 16, y: 1.5}
+        - {x: 19, y: 1.5}
+        - {x: 19, y: 7.5}
+        - {x: 2, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5768df18ef0f48742b867b298e70f81c
+      internalID: -1303290667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 635
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -9.5}
+        - {x: -20, y: -14.5}
+        - {x: -17, y: -16.5}
+        - {x: 4, y: -16.5}
+        - {x: 19, y: -7.5}
+        - {x: 19, y: -2.5}
+        - {x: 14, y: -2.5}
+        - {x: -17, y: -6.5}
+      - - {x: -20, y: 16.5}
+        - {x: -20, y: 7.5}
+        - {x: -14, y: 5.5}
+        - {x: -11, y: 7.5}
+        - {x: 16, y: 2.5}
+        - {x: 19, y: 4.5}
+        - {x: 19, y: 8.5}
+        - {x: 7, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f67ed38da1ceb4ca73967725cc5c66
+      internalID: 156681530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 635
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -5.5}
+        - {x: -20, y: -16.5}
+        - {x: 8, y: -16.5}
+        - {x: 19, y: -7.5}
+        - {x: 19, y: -3.5}
+        - {x: 2, y: -3.5}
+        - {x: -19, y: -4.5}
+      - - {x: -18, y: 16.5}
+        - {x: -20, y: 13.5}
+        - {x: -20, y: 5.5}
+        - {x: -19, y: 5.5}
+        - {x: 4, y: 3.5}
+        - {x: 17, y: 3.5}
+        - {x: 19, y: 5.5}
+        - {x: 19, y: 9.5}
+        - {x: 5, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7753b9cba7499408372ac0fc29b754
+      internalID: 724030622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 635
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -19, y: -4.5}
+        - {x: -20, y: -7.5}
+        - {x: -20, y: -14.5}
+        - {x: -17, y: -16.5}
+        - {x: 5, y: -16.5}
+        - {x: 10, y: -15.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: -4.5}
+      - - {x: 6, y: 16.5}
+        - {x: -14, y: 16.5}
+        - {x: -17, y: 15.5}
+        - {x: -20, y: 13.5}
+        - {x: -20, y: 7.5}
+        - {x: -19, y: 4.5}
+        - {x: -13, y: 5.5}
+        - {x: 16, y: 4.5}
+        - {x: 19, y: 5.5}
+        - {x: 19, y: 8.5}
+        - {x: 10, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2902a1417f798bc42873f6b3bd514f8d
+      internalID: 1837435364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 635
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -4.5}
+        - {x: -20, y: -16.5}
+        - {x: 19, y: -16.5}
+        - {x: 19, y: -4.5}
+      - - {x: -16, y: 16.5}
+        - {x: -20, y: 14.5}
+        - {x: -20, y: 5.5}
+        - {x: -19, y: 4.5}
+        - {x: 20, y: 4.5}
+        - {x: 20, y: 10.5}
+        - {x: 9, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848b2f1d37d5a1f45955e818ea25e8d2
+      internalID: 306638124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_12
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 635
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -3.5}
+        - {x: -20, y: -4.5}
+        - {x: -20, y: -13.5}
+        - {x: -17, y: -16.5}
+        - {x: 19, y: -16.5}
+        - {x: 20, y: -14.5}
+        - {x: 20, y: -3.5}
+      - - {x: 20, y: 10.5}
+        - {x: 10, y: 16.5}
+        - {x: -10, y: 16.5}
+        - {x: -17, y: 15.5}
+        - {x: -20, y: 12.5}
+        - {x: -20, y: 6.5}
+        - {x: -19, y: 3.5}
+        - {x: -13, y: 3.5}
+        - {x: -7, y: 5.5}
+        - {x: 19, y: 5.5}
+        - {x: 20, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f43c22daeed5c84da2a31059e49fd2e
+      internalID: -641605597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_13
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 635
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -19, y: -2.5}
+        - {x: -20, y: -4.5}
+        - {x: -20, y: -10.5}
+        - {x: -13, y: -16.5}
+        - {x: 15, y: -16.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: -5.5}
+        - {x: 1, y: -2.5}
+      - - {x: -10, y: 16.5}
+        - {x: -20, y: 11.5}
+        - {x: -20, y: 2.5}
+        - {x: 20, y: 2.5}
+        - {x: 20, y: 12.5}
+        - {x: 11, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fc742bf7742074788dda9aa5a95887
+      internalID: -1096345627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_14
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 635
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -1.5}
+        - {x: -20, y: -3.5}
+        - {x: -20, y: -9.5}
+        - {x: -12, y: -16.5}
+        - {x: 17, y: -16.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: -7.5}
+        - {x: -6, y: -1.5}
+      - - {x: 11, y: 16.5}
+        - {x: -9, y: 16.5}
+        - {x: -20, y: 10.5}
+        - {x: -20, y: 2.5}
+        - {x: -19, y: 1.5}
+        - {x: 1, y: 1.5}
+        - {x: 20, y: 7.5}
+        - {x: 20, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19d1c51f646f9349a464e05690ca889
+      internalID: -1575530787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 635
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -0.5}
+        - {x: -20, y: -9.5}
+        - {x: -7, y: -16.5}
+        - {x: 14, y: -16.5}
+        - {x: 20, y: -14.5}
+        - {x: 20, y: -8.5}
+        - {x: -12, y: -0.5}
+      - - {x: -9, y: 16.5}
+        - {x: -20, y: 8.5}
+        - {x: -20, y: 1.5}
+        - {x: -19, y: 0.5}
+        - {x: -7, y: 0.5}
+        - {x: 20, y: 7.5}
+        - {x: 20, y: 15.5}
+        - {x: 17, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7269ebea3bd692c45b019ff8f3d3d6c6
+      internalID: 2137353542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 535
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 17, y: 15.5}
+        - {x: 5, y: 16.5}
+        - {x: -2, y: 16.5}
+        - {x: -16, y: 10.5}
+        - {x: -20, y: 6.5}
+        - {x: -20, y: -8.5}
+        - {x: -5, y: -16.5}
+        - {x: 17, y: -16.5}
+        - {x: 19, y: -12.5}
+        - {x: 19, y: 3.5}
+        - {x: 18, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157db63a9835410419c14b38ce9f5a10
+      internalID: 313522429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 535
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -6.5}
+        - {x: -19, y: -7.5}
+        - {x: 2, y: -16.5}
+        - {x: 15, y: -16.5}
+        - {x: 20, y: -14.5}
+        - {x: 20, y: 16.5}
+        - {x: -4, y: 16.5}
+        - {x: -20, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: baba136159d0b294d86e4a5b61c1aa7a
+      internalID: 895896165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 535
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 16.5}
+        - {x: -20, y: 6.5}
+        - {x: -20, y: -8.5}
+        - {x: 1, y: -16.5}
+        - {x: 19, y: -16.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8915df7055f4f2449b411ef3c84c356c
+      internalID: 1984042236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 535
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20, y: 15.5}
+        - {x: 16, y: 16.5}
+        - {x: 7, y: 16.5}
+        - {x: -13, y: 8.5}
+        - {x: -20, y: 5.5}
+        - {x: -20, y: -6.5}
+        - {x: 7, y: -15.5}
+        - {x: 14, y: -15.5}
+        - {x: 16, y: -13.5}
+        - {x: 15, y: -10.5}
+        - {x: 20, y: 5.5}
+      - - {x: 16, y: -12.5}
+        - {x: 18, y: -15.5}
+        - {x: 20, y: -14.5}
+        - {x: 20, y: -11.5}
+        - {x: 18, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dc52bbbcb6c204da68f7e1b8910bb1
+      internalID: 142576312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_20
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 535
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 15.5}
+        - {x: -20, y: 5.5}
+        - {x: -20, y: -9.5}
+        - {x: 3, y: -15.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632756bdeccf0114da77ac58effe6996
+      internalID: 769546759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_21
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 535
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -8.5}
+        - {x: 5, y: -15.5}
+        - {x: 19, y: -15.5}
+        - {x: 19, y: 15.5}
+        - {x: 2, y: 15.5}
+        - {x: -20, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74180bcc5092124b8fbc80655c31011
+      internalID: 407713353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_22
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 535
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15.5}
+        - {x: -19, y: 12.5}
+        - {x: -20, y: 8.5}
+        - {x: -20, y: -9.5}
+        - {x: 6, y: -15.5}
+        - {x: 19, y: -15.5}
+        - {x: 19, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: babf0a34b68f8434b8c32688b9573f5b
+      internalID: 1567381992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_23
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 535
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 15.5}
+        - {x: -20, y: -9.5}
+        - {x: -8, y: -15.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2095f8ac5104de7479967a1d700dd0be
+      internalID: -765921597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 435
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 13.5}
+        - {x: -20, y: -11.5}
+        - {x: -19, y: -13.5}
+        - {x: -9, y: -14.5}
+        - {x: 19, y: -14.5}
+        - {x: 19, y: 8.5}
+        - {x: 18, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9396d668f01b8d4a9d437b338b36e1d
+      internalID: -595737649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 435
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 14.5}
+        - {x: -20, y: -14.5}
+        - {x: 20, y: -14.5}
+        - {x: 20, y: 13.5}
+        - {x: 18, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42430ed22c58d7a43a815e4bf5e57eda
+      internalID: 1978600262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_26
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 435
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 13.5}
+        - {x: -20, y: -12.5}
+        - {x: -18, y: -13.5}
+        - {x: 11, y: -13.5}
+        - {x: 19, y: -12.5}
+        - {x: 19, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2bc0304ce68514082f14ccdf99236e
+      internalID: -1884189473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_27
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 435
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: 14.5}
+        - {x: -20, y: 14.5}
+        - {x: -20, y: -14.5}
+        - {x: 12, y: -14.5}
+        - {x: 20, y: -13.5}
+        - {x: 20, y: 12.5}
+        - {x: 18, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c179ac06997a1c4d8d0d8bb1e39571a
+      internalID: -823938994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 435
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 16.5}
+        - {x: -20, y: 7.5}
+        - {x: -14, y: 3.5}
+        - {x: -20, y: -3.5}
+        - {x: -20, y: -15.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67319979f98c7d54d940066d2ec23f8f
+      internalID: 983640018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_29
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 435
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 16.5}
+        - {x: -20, y: -16.5}
+        - {x: -8, y: -16.5}
+        - {x: 20, y: -11.5}
+        - {x: 20, y: 10.5}
+        - {x: 3, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d252bb76e4e82854a8087a85ad76eea8
+      internalID: 785919687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_30
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 435
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 16.5}
+        - {x: -20, y: 8.5}
+        - {x: -13, y: 4.5}
+        - {x: -20, y: -9.5}
+        - {x: -20, y: -15.5}
+        - {x: -18, y: -16.5}
+        - {x: -6, y: -16.5}
+        - {x: 20, y: -12.5}
+        - {x: 20, y: 12.5}
+        - {x: 3, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c266c007c4c25ab46a21af4ec4832213
+      internalID: -397691054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_31
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 435
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 16.5}
+        - {x: -20, y: -16.5}
+        - {x: 5, y: -16.5}
+        - {x: 20, y: -12.5}
+        - {x: 20, y: 12.5}
+        - {x: 0, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362664ab917309a4f81151905b6ca73f
+      internalID: 1827375808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 335
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 16.5}
+        - {x: -20, y: 16.5}
+        - {x: -20, y: 10.5}
+        - {x: -18, y: 6.5}
+        - {x: -20, y: -2.5}
+        - {x: -20, y: -16.5}
+        - {x: 0, y: -16.5}
+        - {x: 2, y: -15.5}
+        - {x: 20, y: -8.5}
+        - {x: 20, y: 10.5}
+        - {x: 19, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7db2c516d15e1e4da5a88240bfede51
+      internalID: 1723266115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 335
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9, y: 11.5}
+        - {x: -7, y: 16.5}
+        - {x: -20, y: 16.5}
+        - {x: -20, y: -16.5}
+        - {x: -2, y: -16.5}
+        - {x: 18, y: -2.5}
+        - {x: 18, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76291970a02d2eb43af0566723b368d6
+      internalID: -1617902220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 335
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 16.5}
+        - {x: -20, y: 16.5}
+        - {x: -20, y: 9.5}
+        - {x: -19, y: 7.5}
+        - {x: -20, y: 3.5}
+        - {x: -20, y: -16.5}
+        - {x: 0, y: -16.5}
+        - {x: 18, y: -3.5}
+        - {x: 18, y: 4.5}
+        - {x: 16, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8879c9bac2cc9314ea7a999eb45e941f
+      internalID: 1407516633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_35
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 335
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -16.5}
+        - {x: 1, y: -16.5}
+        - {x: 7, y: -14.5}
+        - {x: 17, y: -4.5}
+        - {x: 17, y: -0.5}
+        - {x: 12, y: -0.5}
+        - {x: -20, y: -4.5}
+      - - {x: -20, y: 16.5}
+        - {x: -20, y: 9.5}
+        - {x: -18, y: 8.5}
+        - {x: 11, y: 0.5}
+        - {x: 16, y: 0.5}
+        - {x: 18, y: 2.5}
+        - {x: 18, y: 10.5}
+        - {x: 1, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c67feafb00d48d47b3278e51cb33a7d
+      internalID: 1209883044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_36
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 335
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 19, y: -1.5}
+        - {x: 16, y: -0.5}
+        - {x: 5, y: -1.5}
+        - {x: -20, y: -8.5}
+        - {x: -20, y: -15.5}
+        - {x: -19, y: -16.5}
+        - {x: 2, y: -16.5}
+        - {x: 19, y: -4.5}
+      - - {x: -20, y: 16.5}
+        - {x: -20, y: 8.5}
+        - {x: -19, y: 7.5}
+        - {x: 16, y: 0.5}
+        - {x: 19, y: 1.5}
+        - {x: 19, y: 3.5}
+        - {x: 9, y: 15.5}
+        - {x: 7, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15819d68bb03d6440ab18ddc5d7aeca9
+      internalID: 266141475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_37
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 335
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -1.5}
+        - {x: -20, y: -16.5}
+        - {x: 10, y: -16.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: -1.5}
+      - - {x: -20, y: 16.5}
+        - {x: -20, y: 6.5}
+        - {x: -3, y: 1.5}
+        - {x: 19, y: 1.5}
+        - {x: 19, y: 4.5}
+        - {x: 12, y: 13.5}
+        - {x: 6, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc0c9883f1feda478864c4743097e60
+      internalID: 1215570516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_38
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 335
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -9.5}
+        - {x: -20, y: -16.5}
+        - {x: 8, y: -16.5}
+        - {x: 19, y: -13.5}
+        - {x: 19, y: -2.5}
+        - {x: 7, y: -2.5}
+        - {x: -18, y: -3.5}
+      - - {x: -18, y: 16.5}
+        - {x: -20, y: 14.5}
+        - {x: -20, y: 9.5}
+        - {x: -17, y: 6.5}
+        - {x: 16, y: 2.5}
+        - {x: 19, y: 4.5}
+        - {x: 18, y: 7.5}
+        - {x: 11, y: 13.5}
+        - {x: 3, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa94b4fe775bfda4c973b68c59b560b3
+      internalID: 1002111277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_39
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 335
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -3.5}
+        - {x: -19, y: -4.5}
+        - {x: -20, y: -6.5}
+        - {x: -20, y: -16.5}
+        - {x: 8, y: -16.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: -4.5}
+      - - {x: 8, y: 16.5}
+        - {x: -19, y: 16.5}
+        - {x: -20, y: 15.5}
+        - {x: -20, y: 5.5}
+        - {x: 6, y: 3.5}
+        - {x: 17, y: 3.5}
+        - {x: 19, y: 4.5}
+        - {x: 19, y: 7.5}
+        - {x: 13, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a45f42833a9ee24aa97b479da39c9cc
+      internalID: 1938699028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 235
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -7.5}
+        - {x: -20, y: -14.5}
+        - {x: -16, y: -16.5}
+        - {x: 9, y: -16.5}
+        - {x: 20, y: -9.5}
+        - {x: 20, y: -3.5}
+        - {x: -10, y: -3.5}
+      - - {x: -20, y: 16.5}
+        - {x: -20, y: 6.5}
+        - {x: -19, y: 3.5}
+        - {x: 20, y: 3.5}
+        - {x: 20, y: 15.5}
+        - {x: 17, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04c0b96872d19b47be47ffdeec15dd1
+      internalID: 811629282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 235
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -4.5}
+        - {x: -20, y: -16.5}
+        - {x: 12, y: -16.5}
+        - {x: 20, y: -8.5}
+        - {x: 20, y: -4.5}
+      - - {x: -18, y: 16.5}
+        - {x: -20, y: 14.5}
+        - {x: -20, y: 5.5}
+        - {x: -18, y: 4.5}
+        - {x: 20, y: 4.5}
+        - {x: 20, y: 8.5}
+        - {x: 16, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e93e131cf42d418e773e88d86710d
+      internalID: 1266606755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_42
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 235
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: -3.5}
+        - {x: -19, y: -3.5}
+        - {x: -20, y: -4.5}
+        - {x: -20, y: -11.5}
+        - {x: -18, y: -14.5}
+        - {x: -10, y: -16.5}
+        - {x: 11, y: -16.5}
+        - {x: 18, y: -14.5}
+        - {x: 20, y: -11.5}
+        - {x: 20, y: -4.5}
+      - - {x: -12, y: 16.5}
+        - {x: -19, y: 14.5}
+        - {x: -20, y: 13.5}
+        - {x: -20, y: 3.5}
+        - {x: 10, y: 3.5}
+        - {x: 20, y: 5.5}
+        - {x: 20, y: 11.5}
+        - {x: 9, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c382959d2bbe944f8f7c37e82882add
+      internalID: -261410082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 235
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18, y: -2.5}
+        - {x: -20, y: -4.5}
+        - {x: -20, y: -13.5}
+        - {x: -17, y: -16.5}
+        - {x: 14, y: -16.5}
+        - {x: 20, y: -14.5}
+        - {x: 20, y: -6.5}
+        - {x: -10, y: -2.5}
+      - - {x: -20, y: 3.5}
+        - {x: -2, y: 3.5}
+        - {x: 20, y: 6.5}
+        - {x: 20, y: 12.5}
+        - {x: 15, y: 16.5}
+        - {x: -18, y: 16.5}
+        - {x: -20, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae83ad89c894f7649a8b4081776867ed
+      internalID: 1259956420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_44
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 235
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: -1.5}
+        - {x: -18, y: -1.5}
+        - {x: -20, y: -3.5}
+        - {x: -20, y: -9.5}
+        - {x: -11, y: -16.5}
+        - {x: 14, y: -16.5}
+        - {x: 20, y: -14.5}
+        - {x: 20, y: -8.5}
+        - {x: 18, y: -7.5}
+      - - {x: -11, y: 16.5}
+        - {x: -20, y: 13.5}
+        - {x: -20, y: 2.5}
+        - {x: -19, y: 1.5}
+        - {x: -3, y: 1.5}
+        - {x: 20, y: 6.5}
+        - {x: 20, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddc46a60e21b5e44acf57b9847ce6f6
+      internalID: 2064586121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_45
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 235
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -19, y: -0.5}
+        - {x: -20, y: -2.5}
+        - {x: -20, y: -12.5}
+        - {x: -15, y: -16.5}
+        - {x: 13, y: -16.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: -7.5}
+        - {x: -12, y: -0.5}
+      - - {x: -9, y: 16.5}
+        - {x: -20, y: 13.5}
+        - {x: -20, y: 3.5}
+        - {x: -17, y: 0.5}
+        - {x: -12, y: 1.5}
+        - {x: 20, y: 8.5}
+        - {x: 20, y: 15.5}
+        - {x: 19, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aad66cad2b1654ca7142c8c1049043
+      internalID: 515560220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_46
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 235
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20, y: -0.5}
+        - {x: 20, y: 16.5}
+        - {x: -8, y: 16.5}
+        - {x: -20, y: 9.5}
+        - {x: -20, y: -8.5}
+        - {x: -3, y: -16.5}
+        - {x: 15, y: -16.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: -10.5}
+        - {x: 18, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8e62b1b9f215c4e899633b22eb216e
+      internalID: -923236049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_47
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 235
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 18, y: 16.5}
+        - {x: 1, y: 16.5}
+        - {x: -20, y: 7.5}
+        - {x: -20, y: -9.5}
+        - {x: -9, y: -16.5}
+        - {x: 19, y: -16.5}
+        - {x: 19, y: -11.5}
+        - {x: 18, y: -10.5}
+        - {x: 19, y: -1.5}
+        - {x: 19, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ee65c57b04dbf4c871c655d36d0058
+      internalID: 1936319044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_48
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 135
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -16.5}
+        - {x: 20, y: -16.5}
+        - {x: 20, y: 11.5}
+        - {x: 19, y: 16.5}
+        - {x: 1, y: 16.5}
+        - {x: -15, y: 12.5}
+        - {x: -20, y: 4.5}
+      - - {x: 16, y: 13.5}
+        - {x: 18, y: 10.5}
+        - {x: 20, y: 11.5}
+        - {x: 20, y: 14.5}
+        - {x: 18, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eec30664d2ed64cbe494ff79dbfb66
+      internalID: 71402560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 135
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: 16.5}
+        - {x: -18, y: 9.5}
+        - {x: -20, y: 6.5}
+        - {x: -20, y: -3.5}
+        - {x: -19, y: -6.5}
+        - {x: 3, y: -14.5}
+        - {x: 9, y: -16.5}
+        - {x: 12, y: -16.5}
+        - {x: 16, y: -15.5}
+        - {x: 16, y: 16.5}
+      - - {x: 16, y: -12.5}
+        - {x: 18, y: -15.5}
+        - {x: 20, y: -14.5}
+        - {x: 20, y: -11.5}
+        - {x: 18, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02077aa5ef09d934181305c174a6cc33
+      internalID: 2109180764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_50
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 135
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 15.5}
+        - {x: -20, y: 11.5}
+        - {x: -20, y: -5.5}
+        - {x: 5, y: -16.5}
+        - {x: 18, y: -16.5}
+        - {x: 18, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e905090da6d2ce44a895fcaa6601d381
+      internalID: -1074795752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_51
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 135
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 18, y: 15.5}
+        - {x: 1, y: 15.5}
+        - {x: -20, y: 11.5}
+        - {x: -20, y: -7.5}
+        - {x: 4, y: -15.5}
+        - {x: 17, y: -15.5}
+        - {x: 18, y: -13.5}
+        - {x: 17, y: -10.5}
+        - {x: 18, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ebdad7e6392e24b903a6201e6e956d
+      internalID: 909832348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_52
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 135
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 15.5}
+        - {x: -20, y: 8.5}
+        - {x: -20, y: -12.5}
+        - {x: -19, y: -13.5}
+        - {x: 5, y: -15.5}
+        - {x: 19, y: -15.5}
+        - {x: 19, y: 6.5}
+        - {x: 18, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcead8bd127ff244e9fa40948fd79ab0
+      internalID: 1186711238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_53
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 135
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 15.5}
+        - {x: -20, y: 9.5}
+        - {x: -20, y: 2.5}
+        - {x: -19, y: 1.5}
+        - {x: -20, y: -1.5}
+        - {x: -20, y: -9.5}
+        - {x: -19, y: -11.5}
+        - {x: 2, y: -15.5}
+        - {x: 19, y: -15.5}
+        - {x: 19, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049ee926315ca0d42bf603fd18bdfc6f
+      internalID: -1597694400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_54
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 135
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20, y: -15.5}
+        - {x: 20, y: 15.5}
+        - {x: -20, y: 15.5}
+        - {x: -20, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cca8328524d9e4aad29712100100a3
+      internalID: 1628079768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_55
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 135
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 12.5}
+        - {x: -20, y: -14.5}
+        - {x: 19, y: -14.5}
+        - {x: 19, y: 13.5}
+        - {x: 16, y: 14.5}
+        - {x: -19, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf1bb5d727be9c4a939d355d0a41cc3
+      internalID: 227113430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 35
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 14.5}
+        - {x: -20, y: -14.5}
+        - {x: 20, y: -14.5}
+        - {x: 20, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252da4c7b3342904fbde54a150b612cc
+      internalID: 215502975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 35
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: -1.5}
+        - {x: 20, y: 8.5}
+        - {x: 20, y: 12.5}
+        - {x: 18, y: 13.5}
+        - {x: 11, y: 14.5}
+        - {x: -20, y: 14.5}
+        - {x: -20, y: -14.5}
+        - {x: 20, y: -14.5}
+        - {x: 20, y: -8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb89a5b89ee4ad245ada067f3ef532f8
+      internalID: -452862436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_58
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 35
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 15.5}
+        - {x: -20, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 20, y: -12.5}
+        - {x: 20, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b235436b211144bb5d1f412114843e
+      internalID: -1903918324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_wolf1_projectile2_59
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 35
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -19, y: 16.5}
+        - {x: -20, y: 15.5}
+        - {x: -20, y: 7.5}
+        - {x: -19, y: 5.5}
+        - {x: -20, y: 1.5}
+        - {x: -20, y: -15.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb2d7217c7aeba4198a6ebf63f2c6e4
+      internalID: 821142485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spr_wolf1_projectile2_0: 1781270972
+      spr_wolf1_projectile2_1: 159789801
+      spr_wolf1_projectile2_10: 1837435364
+      spr_wolf1_projectile2_11: 306638124
+      spr_wolf1_projectile2_12: -641605597
+      spr_wolf1_projectile2_13: -1096345627
+      spr_wolf1_projectile2_14: -1575530787
+      spr_wolf1_projectile2_15: 2137353542
+      spr_wolf1_projectile2_16: 313522429
+      spr_wolf1_projectile2_17: 895896165
+      spr_wolf1_projectile2_18: 1984042236
+      spr_wolf1_projectile2_19: 142576312
+      spr_wolf1_projectile2_2: 995933744
+      spr_wolf1_projectile2_20: 769546759
+      spr_wolf1_projectile2_21: 407713353
+      spr_wolf1_projectile2_22: 1567381992
+      spr_wolf1_projectile2_23: -765921597
+      spr_wolf1_projectile2_24: -595737649
+      spr_wolf1_projectile2_25: 1978600262
+      spr_wolf1_projectile2_26: -1884189473
+      spr_wolf1_projectile2_27: -823938994
+      spr_wolf1_projectile2_28: 983640018
+      spr_wolf1_projectile2_29: 785919687
+      spr_wolf1_projectile2_3: -248060892
+      spr_wolf1_projectile2_30: -397691054
+      spr_wolf1_projectile2_31: 1827375808
+      spr_wolf1_projectile2_32: 1723266115
+      spr_wolf1_projectile2_33: -1617902220
+      spr_wolf1_projectile2_34: 1407516633
+      spr_wolf1_projectile2_35: 1209883044
+      spr_wolf1_projectile2_36: 266141475
+      spr_wolf1_projectile2_37: 1215570516
+      spr_wolf1_projectile2_38: 1002111277
+      spr_wolf1_projectile2_39: 1938699028
+      spr_wolf1_projectile2_4: 567804201
+      spr_wolf1_projectile2_40: 811629282
+      spr_wolf1_projectile2_41: 1266606755
+      spr_wolf1_projectile2_42: -261410082
+      spr_wolf1_projectile2_43: 1259956420
+      spr_wolf1_projectile2_44: 2064586121
+      spr_wolf1_projectile2_45: 515560220
+      spr_wolf1_projectile2_46: -923236049
+      spr_wolf1_projectile2_47: 1936319044
+      spr_wolf1_projectile2_48: 71402560
+      spr_wolf1_projectile2_49: 2109180764
+      spr_wolf1_projectile2_5: -1701198224
+      spr_wolf1_projectile2_50: -1074795752
+      spr_wolf1_projectile2_51: 909832348
+      spr_wolf1_projectile2_52: 1186711238
+      spr_wolf1_projectile2_53: -1597694400
+      spr_wolf1_projectile2_54: 1628079768
+      spr_wolf1_projectile2_55: 227113430
+      spr_wolf1_projectile2_56: 215502975
+      spr_wolf1_projectile2_57: -452862436
+      spr_wolf1_projectile2_58: -1903918324
+      spr_wolf1_projectile2_59: 821142485
+      spr_wolf1_projectile2_6: 366255481
+      spr_wolf1_projectile2_7: -1303290667
+      spr_wolf1_projectile2_8: 156681530
+      spr_wolf1_projectile2_9: 724030622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

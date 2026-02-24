@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d16a3b7765b579499344ca3e1637fa5, type: 3}
+  m_Name: ElectricEel1
+  m_EditorClassIdentifier: 
+  enemy: 1
+  creature_class: ElectricEel1
+  creature_hp: 4
+  creature_atk: 5
+  creature_special: 1
+  creature_int: 1
+  creature_jump_force: 400
+  creature_idle_sprite: ElectricEel1 Idle
+  creature_hurt_sprite: ElectricEel1 Hit
+  creature_death_sprite: ElectricEel1 Death
+  creature_atk_1_sprite: ElectricEel1 Atk1
+  creature_atk_2_sprite: ElectricEel1 Atk2
+  creature_jump_sprite: ElectricEel1 Jump
+  fly: 1
+  ground_distance: 0.5

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6ccc0e4f26b10b4468b650c3b8eb2bfe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pre_sets: {instanceID: 0}
+  - projectile: {fileID: 3324837082674238406, guid: e517d820d5adf8943b51cfbde76d963e, type: 3}
+  - life_bar_canvas: {fileID: 8522083997880756453, guid: a418f702681fc814dadbe5a6947335f4, type: 3}
+  - xp_bar_canvas: {fileID: 8522083997880756453, guid: 42338e2e1858c5b45ad1fa28bda9bbfe, type: 3}
+  - stats_canvas: {fileID: 8522083997880756453, guid: 55659730940368c48aa771fbb912a37a, type: 3}
+  - eff_projectile: {fileID: 5736627458901445731, guid: 13539abd87996f04ea21ba44b2ddf6a5, type: 3}
+  - arrow_up: {fileID: 4358508913418053177, guid: f2cd57bc928604547ad8d33933b0c231, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
